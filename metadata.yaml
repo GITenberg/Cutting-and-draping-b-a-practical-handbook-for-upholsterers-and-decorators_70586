@@ -1,0 +1,32 @@
+_repo: Cutting-and-draping-b-a-practical-handbook-for-upholsterers-and-decorators_70586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephenson, John W. (John Wesley)
+    alias: Stephenson, John Wesley
+    birthdate: 1876
+    gutenberg_agent_id: '55807'
+    url: http://www.gutenberg.org/2009/agents/55807
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70586'
+  lccn: '05041747'
+language: en
+pgterms:marc904: https://archive.org/details/cuttingdrapingp00step/page/n5/mode/2up
+pgterms:marc905: 20200907080251stephenson
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Charlene Taylor, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bClifford & Lawton, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Draperies'
+- !lcc 'TT'
+- GITenberg
+title: 'Cutting and draping : $b a practical handbook for upholsterers and decorators'
+url: http://www.gutenberg.org/ebooks/70586
